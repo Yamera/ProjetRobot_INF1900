@@ -1,0 +1,13 @@
+**/build
+**/obj
+*.gch
+*.o
+*.d
+*.a
+*.log
+*.tmp
+*.md
+*.elf
+*.hex
+*.map
+#**/tests
